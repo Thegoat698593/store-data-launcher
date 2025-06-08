@@ -1,11 +1,24 @@
 {
-  "header": "$20.00 / Lifetime",
-  "bulletPoints": [
-    "3000 V-Bucks monthly starter pack",
-    "Access to exclusive name change",
-    "50% XP and V-Buck boost",
-    "Priority queue for faster matchmaking",
-    "Rose Team Leader & Warpaint outfits",
-    "Early access to Next Season"
-  ]
+  "founder": {
+    "header": "$20.00 / Lifetime",
+    "bulletPoints": [
+      "3000 V-Bucks",
+      "This month's starter pack",
+      "Access to name change",
+      "+50% XP and V-Buck boost",
+      "Priority queue",
+      "Rose Team Leader & Warpaint outfits!",
+      "Next Season's early access"
+    ]
+  },
+  "lifetime": {
+    "header": "$50.00 / Lifetime",
+    "bulletPoints": [
+      "1200 V-Bucks",
+      "This month's starter pack: Skull Trooper (skin), Ghost Portal (backpack), Snowflake (glider), Reaper (pickaxe)",
+      "Exclusive seasonal content",
+      "+25% XP boost",
+      "Priority server access"
+    ]
+  }
 }
