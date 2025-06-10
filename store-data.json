@@ -2,23 +2,31 @@
   "premium": {
     "header": "$20.00 / Premium",
     "bulletPoints": [
-        "5000 V-Bucks",
-        "This month's starter pack",
-        "Access to name change",
-        "+50% XP and V-Buck boost",
-        "Priority queue",
-        "Early Access to new LTM's",
-        "Next Season's early access"
+      "5000 V-Bucks",
+      "This month's starter pack",
+      "Access to name change",
+      "+50% XP and V-Buck boost",
+      "Priority queue",
+      "Early Access to new LTM's",
+      "Next Season's early access"
     ]
   },
   "lifetime": {
     "header": "$50.00 / Lifetime",
     "bulletPoints": [
-        "Private Seasons (Soon)",
-        "Access to every cosmetic in the game",
-        "Custom Cosmetics",
-        "Priority Queue",
-        "Private chat access"
+      "Private Seasons (Soon)",
+      "Access to every cosmetic in the game",
+      "Custom Cosmetics",
+      "Priority Queue",
+      "Private chat access"
+    ]
+  },
+  "plus": {
+    "header": "$4.99 / Plus",
+    "bulletPoints": [
+      "5000 V-Bucks",
+      "Access to name change",
+      "+50% XP and V-Buck boost"
     ]
   }
 }
